@@ -1,9 +1,4 @@
-## Hi there 👋
-
-
-**aanvi-oss/aanvi-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 
 
 - 🔭 I’m currently working on techSphere.AI
 - 🌱 I’m currently learning Typescript, Python
